@@ -555,7 +555,7 @@
     "mm.course.confirmdownload": "You are about to download {{size}}. Are you sure you want to continue?",
     "mm.course.confirmdownloadunknownsize": "It was not possible to calculate the size of the download. Are you sure you want to continue?",
     "mm.course.confirmpartialdownloadsize": "You are about to download <strong>at least</strong> {{size}}. Are you sure you want to continue?",
-    "mm.course.contents": "Contents",
+    "mm.course.contents": "Attempt papers",
     "mm.course.couldnotloadsectioncontent": "Could not load the section content. Please try again later.",
     "mm.course.couldnotloadsections": "Could not load the sections. Please try again later.",
     "mm.course.downloadcourse": "Download course",
